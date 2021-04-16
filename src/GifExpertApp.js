@@ -13,7 +13,7 @@ const GifExpertApp = props => {
 
     return (
         <>
-            <h2>GifExpertApp</h2>
+            <h2>Buscador Piedrero v1.0</h2>
             <AddCategory setCategories={setCategories} />
             <hr></hr>
         	

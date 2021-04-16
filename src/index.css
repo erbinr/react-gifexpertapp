@@ -4,12 +4,13 @@
 
 body {
   padding: 40px;
+  background-color: #282c34;
 }
 
 input {
   font-size: 1.2 rem;
   width: 100%;
-  color: gray;
+  color: grey;
 }
 
 .card-grid {
@@ -35,4 +36,8 @@ input {
 
 .card img{
   max-height: 200px;
+}
+
+h3, h2, p {
+  color: white;
 }
